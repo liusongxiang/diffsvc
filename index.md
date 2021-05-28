@@ -14,6 +14,7 @@ In this paper, we propose DiffSVC, an SVC system based on denoising diffusion pr
 
 ## Demo
 ### Samples from the target female singer.
+
 | 1 | 2 | 3 | 4 | 
 | :--- | :--- | :--- | :--- |
 | <audio src="wavs/ref/1.wav" controls preload></audio> | <audio src="wavs/ref/2.wav" controls preload></audio> | <audio src="wavs/ref/3.wav" controls preload></audio> | <audio src="wavs/ref/4.wav" controls preload></audio> |
