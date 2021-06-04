@@ -20,7 +20,7 @@ In this paper, we propose DiffSVC, an SVC system based on denoising diffusion pr
 | <audio src="wavs/ref/1.wav" controls preload></audio> | <audio src="wavs/ref/2.wav" controls preload></audio> | <audio src="wavs/ref/3.wav" controls preload></audio> | <audio src="wavs/ref/4.wav" controls preload></audio> |
 | --- | --- | --- | --- |
 
-| Source | FastSVC | DiffSVC |
+| Source | Converted (FastSVC) | Converted (DiffSVC) |
 | :--- | :--- | :--- |
 | <audio src="wavs/source/0.wav" controls preload></audio> | <audio src="wavs/fastsvc/0.wav" controls preload></audio> | <audio src="wavs/diffsvc/0.wav" controls preload></audio> | 
 | --- | --- | --- |
